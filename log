@@ -1,0 +1,10 @@
+-return type of collision from sprite
+-add acceleration
+-change the isFacingRight method
+-make a gui for building levels
+	=grid based for object placement
+	=start with no enemies to verify collision with blocks first
+-all objects should have a method for colliding with the craft, blocks should also be able to collide with sprites
+-add goal objects to hierarchy
+-figure out how to do scrolling
+-
